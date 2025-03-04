@@ -1,0 +1,24 @@
+    1  pwd
+    2  whoami
+    3  du -h
+    4  [200~du -sh /path/to/directory
+    5  [200~du -sh /root
+    6  du -sh /var/root
+    7  sudo du -sh /
+    8  df -h /
+    9  git remore origin git@github.com:GRRosti/Mylinux.git
+   10  git init
+   11  git
+   12  sudo yum git
+   13  sudo git init
+   14  git -- help
+   15  sudo -su
+   16  sudo su
+   17  git init
+   18  git clone
+   19  git clone https://github.com/GRRosti/Mylinux.git
+   20  git status
+   21  git commit
+   22  sudo git commit
+   23  sudo git add Mylinux/
+   24  history > Mylinux/history.txt
